@@ -6,3 +6,4 @@ his bug, but couldn't figure it out.
 
 Write an ending to the story!
 Luckily he knows about try-catch blocks that are solutions to every coding problems.So All is well!
+Even if try catch fails, use nested try catch!
