@@ -7,3 +7,11 @@ able to just restart the buggy feature.
 
 
 After restarting the buggy feature, he found out that his earlier commit has a much bigger problem and hence he decided to add try catch blocks for his entire code! works like a charm :)
+=======
+Now, there was anothe programmer who didn't ever use git! After all,
+he was a good programmer and didn't need to. 
+
+But one day, he made a mistake and wrote buggy code. He searched for hours for
+his bug, but couldn't figure it out.
+
+Luckily he knows about try-catch blocks that are solutions to every coding problems.So Exception handling saves the day once again!God bless the developer of Exception handling techniques!
