@@ -6,4 +6,4 @@ earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
 
-write an ending here
+After restarting the buggy feature, he found out that his earlier commit has a much bigger problem and hence he decided to add try catch blocks for his entire code! works like a charm :)
